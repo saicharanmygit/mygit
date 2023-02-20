@@ -1,0 +1,2 @@
+# mygit
+start the git
